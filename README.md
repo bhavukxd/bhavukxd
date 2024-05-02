@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavukxd
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,c++
+- 🌱 I’m currently learning python,java
 - 📫 How to reach me by my github
 
 <!---
